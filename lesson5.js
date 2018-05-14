@@ -220,16 +220,3 @@ var humen = new Object();
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
